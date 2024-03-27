@@ -1,4 +1,4 @@
 export class CreateTaskDto {
   readonly title: string;
-  readonly completed: boolean;
+  // readonly completed: boolean;
 }
